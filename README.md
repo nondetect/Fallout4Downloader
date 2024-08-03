@@ -1,2 +1,2 @@
 # Fallout4Downloader
-A simple batch file is required to download the necessary files for Fallout London using the official SteamCMD tool
+To download the required version of Fallout 4 (1.10.163.0) for Fallout London, a basic batch file utilizing the official SteamCMD tool
